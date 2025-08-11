@@ -17,7 +17,7 @@ A complete end-to-end data analytics and machine learning project to analyze tel
 
 ## 📁 Project Structure
 
-### 1. ETL Process (SQL Server)
+### 1. ETL Process (MySQL )
 - Created `db_Churn` database.
 - Imported and staged raw telecom data using SQL Import Wizard.
 - Cleaned missing values and nulls.
